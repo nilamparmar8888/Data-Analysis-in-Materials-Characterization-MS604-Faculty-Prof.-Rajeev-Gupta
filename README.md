@@ -1,4 +1,4 @@
-# Data-Analysis-in-Materials-Characterization-MS604-Faculty-Prof.-Rajeev-Gupta
+# Data-Analysis-in-Materials-Characterization
 
 Executed microstructural characterization, mechanical evaluation, electrical resistivity, dielectric testing,
 thermogravimetric analysis, and XRD to assess material performance for engineering applications.
